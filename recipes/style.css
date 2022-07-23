@@ -1,0 +1,31 @@
+html {background-color: beige;}
+
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+h1 {
+    color: purple;
+    font-style: italic;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+h2 {
+
+    font-size: 30px;
+    color: brown;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+}
+
+
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25;
+}
+
